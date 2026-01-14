@@ -180,6 +180,7 @@ Just **credit the original creator**.
 ## ❤️ Credits
 
 -   **Creator:** Scripter.SM
+-   **Discord:** https://discord.gg/mHJgVNFdN9
 -   **GitHub:** https://github.com/RblxScriptsOG
 -   **UI Concept & Code:** Smile Hub UI
 
