@@ -139,7 +139,7 @@ end)
 
 ------------------------------------------------------------------------
 
-## Theme Info
+## 🎨 Theme Info
 
 Default theme: - Background: Black - Accent: Neon Green - Font: Arcade -
 Rounded Corners - Smooth Tween Animations
