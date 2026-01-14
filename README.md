@@ -1,6 +1,6 @@
 # ❄️ Smile Hub UI Library
 
-A **clean, animated, hacker-style Roblox UI Library** made for developers.
+A **clean, animated, hacker-style Roblox UI Library** made for developers.\
 Designed with performance, visuals, and simplicity in mind.
 
 ------------------------------------------------------------------------
