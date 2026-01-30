@@ -30,7 +30,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/RblxScriptsOG/Smile-H
 ### 1. Load the Library
 
 ``` lua
-local SmileUILib = loadstring(game:HttpGet("YOUR_RAW_URL"))()
+local SmileUILib = loadstring(game:HttpGet("https://raw.githubusercontent.com/RblxScriptsOG/Smile-Hub-UI/refs/heads/main/lib.lua"))()
 ```
 
 ### 2. Create a Window
